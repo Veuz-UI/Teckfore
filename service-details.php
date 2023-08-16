@@ -56,9 +56,9 @@
                         <div class="latest_posts">
                             <h5>Other Services</h5>
                           
-                            <ul id="menu-service-menu" class="menu-service-menu"><li class="service-sidebar-menu"><a href="service-details.php" aria-current="page">Residential interiors</a></li>
-                                <li class="service-sidebar-menu"><a href="service-details.php">Commercial interiors</a></li>
-                                <li class="service-sidebar-menu"><a href="service-details.php">Corporate interiors</a></li>
+                            <ul id="menu-service-menu" class="menu-service-menu"><li class="service-sidebar-menu"><a href="service-details.php" aria-current="page">Residential Interiors</a></li>
+                                <li class="service-sidebar-menu"><a href="service-details.php">Commercial Interiors</a></li>
+                                <li class="service-sidebar-menu"><a href="service-details.php">Corporate Interiors</a></li>
                                 <li class="service-sidebar-menu"><a href="service-details.php">Architectural Planning</a></li>
                                 <li class="service-sidebar-menu"><a href="service-details.php">Design to Build</a></li>
                            
@@ -77,7 +77,7 @@
                                 <img src="images/blogs/blog22.webp" alt="" class="flash">
                             </div>
                             <div class="service-details">
-                                <h2>Residential interiors</h2>
+                                <h2>Residential Interiors</h2>
                                 <p>At Teckfore, we are passionate about transforming homes into the visions of our clients. Whether you are looking to build, restore, or decorate your ideal home, we are here to assist you in designing spaces that truly reflect your unique style and personality. Our dedicated team puts in a great deal of effort to understand your individual tastes and functional requirements, while incorporating our distinctive and timeless design principles. We strive to make the entire design process simple and enjoyable for you, handling every aspect of the project from budget review to project management and collaboration with architects and contractors. With our knowledge and experience, we can bring contemporary and popular designs to your cozy home, creating the residential interior you've always dreamed of. Together, let's build the house of your dreams and make it a reality.</p>
 
                                 <div class="row service-tabs" data-aos="fade-up" data-aos-duration="2000">
@@ -115,7 +115,7 @@
                                                     </div>
                                                     <div class="col-md-12 px-0">
                                                         <h3>Living room design</h3>
-                                                        <p>The living room holds a significant place as the central hub of a home, where relaxation, entertainment, and socializing converge. At Teckfore, we understand the importance of creating a well-designed living room that perfectly aligns with our client’s needs and preferences. Our approach involves carefully selecting furniture that not only suits the space but also reflects the client's personal style. We pay attention to the arrangement of seating to optimize conversation and traffic flow, ensuring a comfortable and inviting atmosphere. Additionally, we incorporate smart storage solutions to declutter the space and enhance functionality. With a keen eye for detail, we choose appropriate lighting fixtures to create the desired ambiance, and carefully curate decorative elements that add a touch of personality and elevate the overall aesthetic of the living room.</p>
+                                                        <p>The living room holds a significant place as the central hub of a home, where relaxation, entertainment, and socializing converge. At Teckfore, we understand the importance of creating a well-designed living room that perfectly aligns with our client's needs and preferences. Our approach involves carefully selecting furniture that not only suits the space but also reflects the client's personal style. We pay attention to the arrangement of seating to optimize conversation and traffic flow, ensuring a comfortable and inviting atmosphere. Additionally, we incorporate smart storage solutions to declutter the space and enhance functionality. With a keen eye for detail, we choose appropriate lighting fixtures to create the desired ambiance, and carefully curate decorative elements that add a touch of personality and elevate the overall aesthetic of the living room.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -141,7 +141,7 @@
                                                     </div>
                                                     <div class="col-md-12 px-0">
                                                         <h3>Dining room design</h3>
-                                                        <p>The dining room holds a special place in a home, as it is where families come together to share meals and create cherished memories. At Teckfore, we understand the importance of creating a dining space that is not only functional but also visually appealing. Our team of designers is skilled in transforming dining rooms into captivating and inviting spaces. From selecting the perfect lighting fixtures to choosing stylish seating options, we pay attention to every detail to enhance the overall ambiance. Whether you prefer a traditional or modern design, we offer a wide range of options to suit your taste and preferences. Our expertise extends to customizing the dining table, incorporating unique elements, and ensuring seamless integration with the rest of the home's design. With Teckfore’ s dining room design services, you can create a space that brings your family together and makes every meal a delightful experience.</p>
+                                                        <p>The dining room holds a special place in a home, as it is where families come together to share meals and create cherished memories. At Teckfore, we understand the importance of creating a dining space that is not only functional but also visually appealing. Our team of designers is skilled in transforming dining rooms into captivating and inviting spaces. From selecting the perfect lighting fixtures to choosing stylish seating options, we pay attention to every detail to enhance the overall ambiance. Whether you prefer a traditional or modern design, we offer a wide range of options to suit your taste and preferences. Our expertise extends to customizing the dining table, incorporating unique elements, and ensuring seamless integration with the rest of the home's design. With Teckfore' s dining room design services, you can create a space that brings your family together and makes every meal a delightful experience.</p>
                                                     </div>
                                                 </div>
                                             </div>

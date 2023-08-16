@@ -62,7 +62,7 @@
                         <h5>01</h5>
                     </div>
                     <div class="col-lg-2">
-                        <h2>Residential interiors</h2>
+                        <h2>Residential Interiors</h2>
                     </div>
                     <div class="col-lg-1">
                         <img src="images/service-icon1.png" class="img-fluid flash">
@@ -75,7 +75,7 @@
                             the space meets the unique needs and preferences of the homeowners. From the selection of
                             furniture, lighting, and colors to the arrangement of room layouts and the incorporation of
                             decorative elements, the residential interior design aims to create inviting and functional
-                            spaces that reflect the homeowner’s personality and enhance their quality of life. Whether
+                            spaces that reflect the homeowner's personality and enhance their quality of life. Whether
                             it's designing cozy bedrooms, functional kitchens, relaxing living rooms, or inspiring home,
                             offices, or residential interiors focus on creating a warm and welcoming atmosphere.
 
@@ -93,7 +93,7 @@
                         <h5>02</h5>
                     </div>
                     <div class="col-lg-2">
-                        <h2>Commercial interiors</h2>
+                        <h2>Commercial Interiors</h2>
                     </div>
                     <div class="col-lg-1">
                         <img src="images/service-icon1.png" class="img-fluid flash">
@@ -122,7 +122,7 @@
                         <h5>03</h5>
                     </div>
                     <div class="col-lg-2">
-                        <h2>Corporate interiors</h2>
+                        <h2>Corporate Interiors</h2>
                     </div>
                     <div class="col-lg-1">
                         <img src="images/service-icon1.png" class="img-fluid flash">

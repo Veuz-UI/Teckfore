@@ -128,7 +128,7 @@
                         <h5>01</h5>
                     </div>
                     <div class="col-lg-2">
-                        <h2>Residential interiors</h2>
+                        <h2>Residential Interiors</h2>
                     </div>
                     <div class="col-lg-2">
                         <img src="images/service-icon1.png" class="img-fluid flash">
@@ -159,7 +159,7 @@
                         <h5>02</h5>
                     </div>
                     <div class="col-lg-2">
-                        <h2>Commercial interiors</h2>
+                        <h2>Commercial Interiors</h2>
                     </div>
                     <div class="col-lg-2">
                         <img src="images/service-icon1.png" class="img-fluid flash">
@@ -188,7 +188,7 @@
                         <h5>03</h5>
                     </div>
                     <div class="col-lg-2">
-                        <h2>Corporate interiors</h2>
+                        <h2>Corporate Interiors</h2>
                     </div>
                     <div class="col-lg-2">
                         <img src="images/service-icon1.png" class="img-fluid flash">
@@ -282,14 +282,14 @@
                     <div class="content-left-box2">
                         <h3>Teckfore Interiors</h3>
                         <h2>What makes Teckfore the best <br><span>Interior Designer</span></h2>
-                        <h4>Globally Recognized Parent company</h4>
+                        <h4>Globally Recognized Parent Company</h4>
                         <h4>Manufacturers to Consumers</h4>
                         <h4>Timely Execution</h4>
                         <h4>Professional Team</h4>
                         <h4>Total Turnkey Solutions</h4>
                         <h4>Creative Designers</h4>
                         <h4>Collaboration with the Leading Brands</h4>
-                        <h4>Assurance with products</h4>
+                        <h4>Assurance with Products</h4>
                        
                     </div>
                 </div>
@@ -317,7 +317,7 @@
                     </p>
                     <p>These advanced technical production tools empower us to handle a diverse range of materials and
                         effectively carry out intricate manufacturing processes. With precise control and accuracy, we
-                        can deliver customized solutions tailored to our client’s specific requirements.
+                        can deliver customized solutions tailored to our client's specific requirements.
                     </p>
                     <p>Our access to these cutting-edge tools positions us as industry leaders, enabling us to provide
                         our clients with technologically integrated solutions that blend innovation and functionality
@@ -327,11 +327,11 @@
                     <p>The combination of our skilled workforce and cutting-edge machinery allows us to achieve
                         exceptional precision, efficiency, and craftsmanship in our manufacturing processes. We take
                         pride in delivering precise and personalized solutions that are at the forefront of
-                        technological advancements, meeting and exceeding our client’s expectations.</p>
+                        technological advancements, meeting and exceeding our client's expectations.</p>
 
                     <p>At Teckfore, our commitment to utilizing the latest production tools and technologies drives us
                         to continuously innovate and enhance our manufacturing capabilities. We believe in harnessing
-                        the power of advanced machinery to bring our client’s visions to life with unparalleled
+                        the power of advanced machinery to bring our client's visions to life with unparalleled
                         precision and uncompromising quality.
                     </p>
                    
@@ -395,7 +395,7 @@
                         <h2><span class="count">10 </span>+</h3><span>Years <br>Experience</span>
                     </div>
                     <div class="col-md-6 d-flex align-items-center">
-                        <h2><span class="count">100 </span>+</h3><span>Work <br> Completed</span>
+                        <h2><span class="count">50 </span>+</h3><span>Works <br> Completed</span>
                     </div>
                 </div>
             </div>
@@ -419,14 +419,11 @@
                                 <img src="images/testi-img1.png" class="img-fluid test-image-ratio">
                             </div>
                             <div class="test-names">
-                                <h2>Samuel sins</h2>
-                                <p>Lead Intranet Technician</p>
+                                <h2>Jane Doe</h2>
+                                <!-- <p>Manager</p> -->
                             </div>
                         </div>
-                        <p>An interior design agency can create content that showcases its work, highlights design
-                            trends, and provides educational resources for clients and followers. Some potential content
-                            ideas for an interior design agency An interior
-                            design
+                        <p>They've exceeded my expectations every times. Their attention to detail is unmatched. I highly recommend them.
                         </p>
                     </div>
                 </div>
@@ -438,13 +435,10 @@
                             </div>
                             <div class="test-names">
                                 <h2>Esther Hills</h2>
-                                <p>Lead Intranet Technician</p>
+                                <!-- <p>Lead Intranet Technician</p> -->
                             </div>
                         </div>
-                        <p>An interior design agency can create content that showcases its work, highlights design
-                            trends, and provides educational resources for clients and followers. Some potential content
-                            ideas for an interior design agency An interior
-                            design
+                        <p>I was blown away by the creativity and attention to detail that was put into my project. The end result was beyond my wildest dreams.
                         </p>
                     </div>
                 </div>
@@ -456,14 +450,10 @@
                             </div>
                             <div class="test-names">
                                 <h2>David John</h2>
-                                <p>Lead Intranet Technician</p>
+                                <!-- <p>Lead Intranet Technician</p> -->
                             </div>
                         </div>
-                        <p>An interior design agency can create content that showcases its work, highlights design
-                            trends, and provides educational resources for clients and followers. Some potential content
-                            ideas for an interior design agency An interior
-                            design
-                        </p>
+                        <p>The team at Teckfore are amazing! They listened to my vision and created a space that is both beautiful and functional.</p>
                     </div>
                 </div>
                 <div class="item padd-items">
@@ -474,14 +464,10 @@
                             </div>
                             <div class="test-names">
                                 <h2>Maria George</h2>
-                                <p>Lead Intranet Technician</p>
+                                <!-- <p>Lead Intranet Technician</p> -->
                             </div>
                         </div>
-                        <p>An interior design agency can create content that showcases its work, highlights design
-                            trends, and provides educational resources for clients and followers. Some potential content
-                            ideas for an interior design agency An interior
-                            design
-                        </p>
+                        <p>They transformed my outdated living room into a modern and chic space that I absolutely love. They were professional and easy to work with.</p>
                     </div>
                 </div>
 
@@ -496,8 +482,9 @@
                 <div class="item">
                     <img src="images/clients/1.png" class="img-fluid">
                 </div>
+         
                 <div class="item">
-                    <img src="images/clients/2.png" class="img-fluid">
+                    <img src="images/clients/7.png" class="img-fluid">
                 </div>
                 <div class="item">
                     <img src="images/clients/3.png" class="img-fluid">
@@ -505,7 +492,18 @@
                 <div class="item">
                     <img src="images/clients/4.png" class="img-fluid">
                 </div>
-
+                <div class="item">
+                    <img src="images/clients/5.png" class="img-fluid">
+                </div>
+                <div class="item">
+                    <img src="images/clients/6.png" class="img-fluid">
+                </div>
+                <div class="item">
+                    <img src="images/clients/2.png" class="img-fluid">
+                </div>
+                <div class="item">
+                    <img src="images/clients/8.png" class="img-fluid">
+                </div>
             </div>
         </div>
     </section>
@@ -565,7 +563,7 @@
                     </div></a> 
                 </div>
                 <div class="col-lg-12 d-flex justify-content-center">
-                    <a href="blog.php"><button class="button-moidel3">View All Blogs <i class="fa-solid fa-arrow-right-long"></i></button></a>
+                    <a href="blog.php"><button class="button-moidel3">View All Blogs <i class="fa-solid fa-arrow-right-long"></i></button></a>
                 </div>
 
             </div>
@@ -580,7 +578,7 @@
             <div class="main-head text-center color-white">
                 <h3>Teckfore Interiors</h3>
                 <h2>Frequently asked questions</h2>
-                <h4>Have a questions? We’re here to help</h4>
+                <h4>Have a questions? We're here to help</h4>
             </div>
 
             <div class="faq-bg" data-aos="fade-up">
