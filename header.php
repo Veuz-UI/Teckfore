@@ -40,13 +40,33 @@
 
                 </ul>
                 <form class="d-flex">
-                    <button class="serch-box-round">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                    </button>
+                    <div class="input-box">
+                        <input type="text" placeholder="Search..." />
+                        <span class="search">
+                            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        </span>
+                        <i class="fas fa-times close-icon"></i>
+                    </div>
                 </form>
             </div>
         </div>
     </nav>
+
+
+
+<script>
+    let inputBox = document.querySelector('.input-box'),
+        searchIcon = document.querySelector('.search'),
+        closeIcon = document.querySelector('.close-icon');
+
+    searchIcon.addEventListener('click', () => {
+        inputBox.classList.add('open');
+    });
+
+    closeIcon.addEventListener('click', () => {
+        inputBox.classList.remove('open');
+    });
+</script>
 
 
 
