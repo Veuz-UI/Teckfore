@@ -33,7 +33,7 @@
         <div class="owl-carousel owl-theme banner-class">
             <div class="item">
                 <div class="image-slider">
-                    <img src="images/hero1.webp" class="img-fluid">
+                      <img src="images/banner.webp" class="img-fluid">
                     <div class="banner-info">
                         <h1>We design spaces <br> that help build a better<br> tomorrow </h1>
                         <p>Create Your Dream Home</p>
@@ -47,7 +47,7 @@
             </div>
             <div class="item">
                 <div class="image-slider">
-                    <img src="images/hero2.webp" class="img-fluid">
+                  <img src="images/banner2.webp" class="img-fluid">
                     <div class="banner-info">
                         <h1>We design spaces<br> that help build a <br>better tomorrow </h1>
                         <p>Create Your Dream Home</p>
@@ -61,7 +61,7 @@
             </div>
             <div class="item">
                 <div class="image-slider">
-                    <img src="images/bb.png" class="img-fluid">
+                    <img src="images/banner3.webp" class="img-fluid">
                     <div class="banner-info">
                         <h1>We design spaces<br> that help build a better<br> tomorrow </h1>
                         <p>Create Your Dream Home</p>
