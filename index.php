@@ -33,7 +33,7 @@
         <div class="owl-carousel owl-theme banner-class">
             <div class="item">
                 <div class="image-slider">
-                    <img src="images/banner.webp" class="img-fluid">
+                    <img src="images/hero1.webp" class="img-fluid">
                     <div class="banner-info">
                         <h1>We design spaces <br> that help build a better<br> tomorrow </h1>
                         <p>Create Your Dream Home</p>
@@ -47,7 +47,7 @@
             </div>
             <div class="item">
                 <div class="image-slider">
-                    <img src="images/banner2.webp" class="img-fluid">
+                    <img src="images/hero2.webp" class="img-fluid">
                     <div class="banner-info">
                         <h1>We design spaces<br> that help build a <br>better tomorrow </h1>
                         <p>Create Your Dream Home</p>
@@ -61,7 +61,7 @@
             </div>
             <div class="item">
                 <div class="image-slider">
-                    <img src="images/banner3.webp" class="img-fluid">
+                    <img src="images/bb.png" class="img-fluid">
                     <div class="banner-info">
                         <h1>We design spaces<br> that help build a better<br> tomorrow </h1>
                         <p>Create Your Dream Home</p>
@@ -358,37 +358,45 @@
         <div class="project-pad">
             <div class="owl-carousel project-carousel owl-theme">
                 <div class="item">
-                    <img src="images/project1.webp" class="img-fluid project-img flash">
+                    <img src="images/project12.webp" class="img-fluid project-img flash">
                     <a href="gallery.php">
                         <div class="project-info d-flex align-items-center">
-                            <h3>Interior Design</h3>
+                            <h3>Commercial</h3>
                             <img src="images/arrow.svg" class="img-fluid arrow-class">
                         </div>
                     </a>
                 </div>
                 <div class="item">
-                    <img src="images/project1.webp" class="img-fluid project-img flash">
+                    <img src="images/project11.webp" class="img-fluid project-img flash">
                     <a href="gallery.php">
                         <div class="project-info d-flex align-items-center">
-                            <h3>Interior Design</h3>
+                            <h3>Residential</h3>
                             <img src="images/arrow.svg" class="img-fluid arrow-class">
                         </div>
                     </a>
                 </div>
 
                 <div class="item">
-                    <img src="images/project1.webp" class="img-fluid project-img flash">
+                    <img src="images/project12.webp" class="img-fluid project-img flash">
                     <a href="gallery.php">
                         <div class="project-info d-flex align-items-center">
-                            <h3>Interior Design</h3>
+                            <h3>Commercial</h3>
                             <img src="images/arrow.svg" class="img-fluid arrow-class">
                         </div>
                     </a>
                 </div>
-
+                <div class="item">
+                    <img src="images/project11.webp" class="img-fluid project-img flash">
+                    <a href="gallery.php">
+                        <div class="project-info d-flex align-items-center">
+                            <h3>Residential</h3>
+                            <img src="images/arrow.svg" class="img-fluid arrow-class">
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
-        <div class="d-flex justify-content-center">
+        <!-- <div class="d-flex justify-content-center">
             <div class="project-count-box">
                 <div class="row">
                     <div class="col-md-6 d-flex align-items-center">
@@ -399,7 +407,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </section>
 

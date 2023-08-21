@@ -159,7 +159,7 @@
                      <div class="team-carousel owl-carousel owl-theme">
                         <div class="team-div item">
                             <div class="team-img">
-                                <img src="images/about/team5.webp" alt="">
+                                <img src="images/placeholder.jpg" alt="">
                                 <ul class="team-social">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -173,7 +173,7 @@
                         </div>
                         <div class="team-div item">
                             <div class="team-img">
-                                <img src="images/about/team1.webp" alt="">
+                                <img src="images/placeholder.jpg" alt="">
                                 <ul class="team-social">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -187,7 +187,7 @@
                         </div>
                         <div class="team-div item">
                             <div class="team-img">
-                                <img src="images/about/team2.webp" alt="">
+                                <img src="images/placeholder.jpg" alt="">
                                 <ul class="team-social">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -201,7 +201,7 @@
                         </div>
                         <div class="team-div item">
                             <div class="team-img">
-                                <img src="images/about/team3.webp">
+                                <img src="images/placeholder.jpg">
                                 <ul class="team-social">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -215,7 +215,7 @@
                         </div>
                         <div class="team-div item">
                             <div class="team-img">
-                                <img src="images/about/team4.webp">
+                                <img src="images/placeholder.jpg">
                                 <ul class="team-social">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
